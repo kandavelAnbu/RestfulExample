@@ -1,0 +1,8 @@
+com\mkyong\rest\DBConnection.class
+com\mkyong\rest\AppErrCode.class
+com\mkyong\rest\Customer.class
+com\mkyong\rest\Hospital.class
+com\mkyong\rest\AppException.class
+com\mkyong\rest\HospitalService.class
+com\mkyong\rest\HelloWorldService.class
+com\mkyong\rest\JsonUtil.class
